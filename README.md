@@ -6,11 +6,13 @@
 
 * 📱 Android Developer
 
-* 🔭 Open to Work
+* 🛠 Open to Work
 
 * 🤓 I love to convert beautiful design into effcient code
 
 * 💻 My Published apps on [Play Store](https://play.google.com/store/apps/developer?id=Jayant+Kapila)
+
+* 📄 My resume --> https://drive.google.com/file/d/1ezC30LTglKcpXqgwEz_VAdZfvn_mYOQ1/view?usp=sharing
 
 * 🎹 Love to play piano
 
