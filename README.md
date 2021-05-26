@@ -1,10 +1,12 @@
 ### Hi there, I'm Jayant&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">
 
-### A Developer 🚀 
+### A Mobile App Developer 🚀 
 
 ### About Me 🤷🏻‍♂️
 
 * 📱 Android Developer
+
+* 💻 React, Flask
 
 * 🛠 Open to Work
 
