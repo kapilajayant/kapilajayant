@@ -14,7 +14,7 @@
 
 * 💻 My Published apps on [Play Store](https://play.google.com/store/apps/developer?id=Jayant+Kapila)
 
-* 📄 [My resume](https://drive.google.com/file/d/1PsMAmvfBNYu1SCLORS9x-XchEv_3MI8b/view?usp=sharing)
+* 📄 [My resume](https://drive.google.com/file/d/1A6qTHRoJAwgF-9Se1cy0FxW82Gf2gTP-/view?usp=drive_link)
 
 * 🎹 Love to play piano
 
