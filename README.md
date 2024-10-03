@@ -10,7 +10,7 @@
 
 * 🛠 Open to Work
 
-* 🤓 I love to convert beautiful design into effcient code
+* I love to convert beautiful design into effcient code
 
 * 💻 My Published apps on [Play Store](https://play.google.com/store/apps/developer?id=Jayant+Kapila)
 
